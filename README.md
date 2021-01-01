@@ -1,3 +1,7 @@
+This is an example of a recent school project on decision trees, gradient boosting and ensembles. The relevant Jupyter notebooks are numbered and can be inspected right here on GitHub. What follows in this README are the instructions from my course supervisor, Joan Verdú. 
+
+---
+
 # Machine Learning in practice
 
 Joan Verdú
